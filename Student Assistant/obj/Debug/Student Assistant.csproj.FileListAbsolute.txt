@@ -1,0 +1,144 @@
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\ApplicationInsights.config
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\roslyn\csc.exe
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\roslyn\System.Collections.Immutable.dll
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\roslyn\vbc.exe
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\roslyn\VBCSCompiler.exe
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\roslyn\VBCSCompiler.exe.config
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\Student Assistant.dll.config
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\Student Assistant.dll
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\Student Assistant.pdb
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\Antlr3.Runtime.dll
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\Microsoft.AI.Web.dll
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\Microsoft.AI.WindowsServer.dll
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\Microsoft.ApplicationInsights.dll
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\Microsoft.Web.Infrastructure.dll
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\Newtonsoft.Json.dll
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\System.Web.Optimization.dll
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\WebGrease.dll
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\Microsoft.AI.Web.xml
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\Microsoft.AI.WindowsServer.xml
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\Microsoft.ApplicationInsights.xml
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\System.Web.Optimization.xml
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\Antlr3.Runtime.pdb
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\Newtonsoft.Json.xml
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\obj\Debug\Student Assistant.csprojResolveAssemblyReference.cache
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\obj\Debug\Student Assistant.dll
+c:\users\talha\documents\visual studio 2015\Projects\Student Assistant\Student Assistant\obj\Debug\Student Assistant.pdb
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\obj\Debug\Student Assistant.csprojResolveAssemblyReference.cache
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\obj\Debug\Student Assistant.dll
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\obj\Debug\Student Assistant.pdb
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\ApplicationInsights.config
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\roslyn\csc.exe
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\roslyn\System.Collections.Immutable.dll
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\roslyn\System.Reflection.Metadata.dll
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\roslyn\vbc.exe
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\roslyn\VBCSCompiler.exe
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\roslyn\VBCSCompiler.exe.config
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\Student Assistant.dll.config
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\Student Assistant.dll
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\Student Assistant.pdb
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\Antlr3.Runtime.dll
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\AspNet.ScriptManager.jQuery.dll
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\Microsoft.AI.DependencyCollector.dll
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\Microsoft.AI.Web.dll
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\Microsoft.AI.WindowsServer.dll
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\Microsoft.ApplicationInsights.dll
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\Microsoft.Web.Infrastructure.dll
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\Newtonsoft.Json.dll
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\System.Web.Optimization.dll
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\WebGrease.dll
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\Microsoft.AI.DependencyCollector.xml
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\Microsoft.AI.Web.xml
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\Microsoft.AI.WindowsServer.xml
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\Microsoft.ApplicationInsights.xml
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\System.Web.Optimization.xml
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\Antlr3.Runtime.pdb
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\Newtonsoft.Json.xml
+D:\Ahsan\cs\semester-8\FYP-II\Student Assistant\Student Assistant\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\ApplicationInsights.config
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\roslyn\csc.exe
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\roslyn\vbc.exe
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\roslyn\VBCSCompiler.exe
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\Student Assistant.dll.config
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\Student Assistant.dll
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\Student Assistant.pdb
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\Antlr3.Runtime.dll
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\Microsoft.AI.Web.dll
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\Newtonsoft.Json.dll
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\System.Web.Optimization.dll
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\WebGrease.dll
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\Microsoft.AI.Web.xml
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\System.Web.Optimization.xml
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\Antlr3.Runtime.pdb
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\Newtonsoft.Json.xml
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\obj\Debug\Student Assistant.csprojResolveAssemblyReference.cache
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\obj\Debug\Student Assistant.dll
+C:\Users\MUGHAL123\Desktop\Student Assistant\Student Assistant\obj\Debug\Student Assistant.pdb
